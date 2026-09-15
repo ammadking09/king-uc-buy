@@ -200,12 +200,12 @@ let msg=
 "Price: "+selectedPrice+"%0A"+  
 "Payment: "+selectedPayment;  
   
-window.open("https://wa.me/923000000000?text="+msg,"_blank");  
+window.open("https://wa.me/923285197145?text="+msg,"_blank");  
 }  
   
 function accountOrder(account){  
 let msg="Hello KING UC BUY%0AI want details about: "+account;  
-window.open("https://wa.me/923000000000?text="+msg,"_blank");  
+window.open("https://wa.me/923285197145?text="+msg,"_blank");  
 }  
 </script>  </body>  
 </html>
